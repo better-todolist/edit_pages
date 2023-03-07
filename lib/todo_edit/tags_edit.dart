@@ -22,6 +22,7 @@ class TagsEdit extends StatelessWidget {
   /// 3. 可以使用 EditWidget 简化开发
   /// 4. 请注意，每个tag 需要使用一个与背景色不同的药丸形状包裹，tag 与 tag 之间需要有一定距离
   /// 请酌情思考间距大小
+  /// 5. 如果 tags 的确过多，请使tag 显示部分可以滚动
   ///
   /// |----------------------|---------|
   /// | tag1  tag2 tag3 tag4 |         |
